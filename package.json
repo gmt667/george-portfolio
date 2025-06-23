@@ -20,6 +20,10 @@
     "@types/react-dom": "^18.3.0",
     "@vitejs/plugin-react": "^4.3.1",
     "autoprefixer": "^10.4.18",
+<<<<<<< HEAD
+=======
+    "cross-env": "^7.0.3",
+>>>>>>> 3b0da073e6d84b9595cdd7782ff34a31d244d2c4
     "eslint": "^9.9.1",
     "eslint-plugin-react-hooks": "^5.1.0-rc.0",
     "eslint-plugin-react-refresh": "^0.4.11",

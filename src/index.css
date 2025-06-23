@@ -1,6 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+<<<<<<< HEAD
 
 @layer base {
   html {
@@ -24,3 +25,5 @@
     transform: translateY(0);
   }
 }
+=======
+>>>>>>> 3b0da073e6d84b9595cdd7782ff34a31d244d2c4

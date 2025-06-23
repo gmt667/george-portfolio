@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React from 'react';
 import { Github, Mail, Heart, GraduationCap, MapPin, Phone } from 'lucide-react';
 
@@ -101,3 +102,14 @@ const Footer = () => {
 };
 
 export default Footer;
+=======
+import React from "react";
+
+export default function Footer() {
+  return (
+    <footer className="px-6 py-4 text-center bg-gray-800 text-gray-400">
+      © {new Date().getFullYear()} George Mustafa Taumbe | UNILIA | Computer Engineering
+    </footer>
+  );
+}
+>>>>>>> 3b0da073e6d84b9595cdd7782ff34a31d244d2c4
